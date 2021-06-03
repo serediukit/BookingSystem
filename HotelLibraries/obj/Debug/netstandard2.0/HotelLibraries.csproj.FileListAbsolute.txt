@@ -1,0 +1,18 @@
+C:\Users\Xiaomi\Desktop\c++\kursach\HotelLibraries\HotelLibraries\bin\Debug\netstandard2.0\HotelLibraries.deps.json
+C:\Users\Xiaomi\Desktop\c++\kursach\HotelLibraries\HotelLibraries\bin\Debug\netstandard2.0\HotelLibraries.dll
+C:\Users\Xiaomi\Desktop\c++\kursach\HotelLibraries\HotelLibraries\bin\Debug\netstandard2.0\HotelLibraries.pdb
+C:\Users\Xiaomi\Desktop\c++\kursach\HotelLibraries\HotelLibraries\obj\Debug\netstandard2.0\HotelLibraries.csprojAssemblyReference.cache
+C:\Users\Xiaomi\Desktop\c++\kursach\HotelLibraries\HotelLibraries\obj\Debug\netstandard2.0\HotelLibraries.AssemblyInfoInputs.cache
+C:\Users\Xiaomi\Desktop\c++\kursach\HotelLibraries\HotelLibraries\obj\Debug\netstandard2.0\HotelLibraries.AssemblyInfo.cs
+C:\Users\Xiaomi\Desktop\c++\kursach\HotelLibraries\HotelLibraries\obj\Debug\netstandard2.0\HotelLibraries.csproj.CoreCompileInputs.cache
+C:\Users\Xiaomi\Desktop\c++\kursach\HotelLibraries\HotelLibraries\obj\Debug\netstandard2.0\HotelLibraries.dll
+C:\Users\Xiaomi\Desktop\c++\kursach\HotelLibraries\HotelLibraries\obj\Debug\netstandard2.0\HotelLibraries.pdb
+C:\Users\Xiaomi\Desktop\c++\kursach - Copy\HotelLibraries\HotelLibraries\bin\Debug\netstandard2.0\HotelLibraries.deps.json
+C:\Users\Xiaomi\Desktop\c++\kursach - Copy\HotelLibraries\HotelLibraries\bin\Debug\netstandard2.0\HotelLibraries.dll
+C:\Users\Xiaomi\Desktop\c++\kursach - Copy\HotelLibraries\HotelLibraries\bin\Debug\netstandard2.0\HotelLibraries.pdb
+C:\Users\Xiaomi\Desktop\c++\kursach - Copy\HotelLibraries\HotelLibraries\obj\Debug\netstandard2.0\HotelLibraries.csprojAssemblyReference.cache
+C:\Users\Xiaomi\Desktop\c++\kursach - Copy\HotelLibraries\HotelLibraries\obj\Debug\netstandard2.0\HotelLibraries.AssemblyInfoInputs.cache
+C:\Users\Xiaomi\Desktop\c++\kursach - Copy\HotelLibraries\HotelLibraries\obj\Debug\netstandard2.0\HotelLibraries.AssemblyInfo.cs
+C:\Users\Xiaomi\Desktop\c++\kursach - Copy\HotelLibraries\HotelLibraries\obj\Debug\netstandard2.0\HotelLibraries.csproj.CoreCompileInputs.cache
+C:\Users\Xiaomi\Desktop\c++\kursach - Copy\HotelLibraries\HotelLibraries\obj\Debug\netstandard2.0\HotelLibraries.dll
+C:\Users\Xiaomi\Desktop\c++\kursach - Copy\HotelLibraries\HotelLibraries\obj\Debug\netstandard2.0\HotelLibraries.pdb
