@@ -5,13 +5,13 @@ namespace HotelLib
 {
     public class Admin : User
     {
-        private static uint AdminIDcounter = 1;
+        private static uint _adminIDcounter = 1;
         public Admin(string login, string password, string name)
         {
             Login = login;
             Password = password;
             Name = name;
-            UserID = AdminIDcounter;
+            UserID = _adminIDcounter;
             try
             {
                 BookingHandlerSingleton.Instance.TryAddAdminToDB(this);
@@ -20,7 +20,7 @@ namespace HotelLib
             {
                 throw exception;
             }
-            AdminIDcounter++;
+            _adminIDcounter++;
         }
     }
 }

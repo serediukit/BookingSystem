@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Xiaomi\\Desktop\\c++\\kursach - Copy\\HotelLibraries\\HotelLibraries\\HotelLibraries.csproj": {}
+    "C:\\Users\\Xiaomi\\Desktop\\c++\\kursach_v_1_0\\HotelLibraries\\HotelLibraries.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Xiaomi\\Desktop\\c++\\kursach - Copy\\HotelLibraries\\HotelLibraries\\HotelLibraries.csproj": {
+    "C:\\Users\\Xiaomi\\Desktop\\c++\\kursach_v_1_0\\HotelLibraries\\HotelLibraries.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Xiaomi\\Desktop\\c++\\kursach - Copy\\HotelLibraries\\HotelLibraries\\HotelLibraries.csproj",
+        "projectUniqueName": "C:\\Users\\Xiaomi\\Desktop\\c++\\kursach_v_1_0\\HotelLibraries\\HotelLibraries.csproj",
         "projectName": "HotelLibraries",
-        "projectPath": "C:\\Users\\Xiaomi\\Desktop\\c++\\kursach - Copy\\HotelLibraries\\HotelLibraries\\HotelLibraries.csproj",
+        "projectPath": "C:\\Users\\Xiaomi\\Desktop\\c++\\kursach_v_1_0\\HotelLibraries\\HotelLibraries.csproj",
         "packagesPath": "C:\\Users\\Xiaomi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Xiaomi\\Desktop\\c++\\kursach - Copy\\HotelLibraries\\HotelLibraries\\obj\\",
+        "outputPath": "C:\\Users\\Xiaomi\\Desktop\\c++\\kursach_v_1_0\\HotelLibraries\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

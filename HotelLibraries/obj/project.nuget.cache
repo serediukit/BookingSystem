@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+Ph64ombexSYzPqen1WgmFKiOdyGl8gLIAKvVbodLrPdxLnBV9nDauy20NMz1n7/cTMgV0JXhHPROYhHh7kWgQ==",
+  "dgSpecHash": "gHdgkdmKwe+tG7Gfvo3IQ7iGqd619qjYTEljuEF2P8jevi5dEWsprw9Bf/PySg5ANNetheiKOc7svfgBqIrz4A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Xiaomi\\Desktop\\c++\\kursach - Copy\\HotelLibraries\\HotelLibraries\\HotelLibraries.csproj",
+  "projectFilePath": "C:\\Users\\Xiaomi\\Desktop\\c++\\kursach_v_1_0\\HotelLibraries\\HotelLibraries.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Xiaomi\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Xiaomi\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

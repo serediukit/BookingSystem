@@ -35,8 +35,8 @@ namespace HotelLib
             if (suite.SuiteCapacity == Suite.Capacity.Double && guestAmount > 2) throw new TooManyPeopleException(guestAmount);
             if (suite.SuiteCapacity == Suite.Capacity.Twinn && guestAmount > 2) throw new TooManyPeopleException(guestAmount);
             ID = IDcounter;
-            BookingFrom = new DateTime(bookingFrom.Year, bookingFrom.Month, bookingFrom.Day, 16, 0, 0);
-            BookingTo = new DateTime(bookingTo.Year, bookingTo.Month, bookingTo.Day, 12, 0, 0);
+            BookingFrom = new DateTime(bookingFrom.Year, bookingFrom.Month, bookingFrom.Day, 0, 0, 0);
+            BookingTo = new DateTime(bookingTo.Year, bookingTo.Month, bookingTo.Day, 0, 0, 0);
             Hotel = hotel;
             Guest = guest;
             Suite = suite;
