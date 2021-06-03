@@ -17,7 +17,7 @@ Admin can:
   change suites
   
 In project is included the simulation of data changing. It can be used for testing the correct work.
-Also, the simulation of adding the some suites and the some guest has already done in the HotelInterface lib.
+Also, the simulation of adding the some suites and the some guest has already done in the HotelInterface/Program.cs
 
 The code was written in C#.
 For writting this project were used Visual Studio 2019 with ReShaper.
